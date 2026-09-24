@@ -1,6 +1,5 @@
 package iniciante.tipoDeDados;
 
-import java.util.Locale;
 
 public class DadosNaoPrimitivos {
     public static void main(String[] args) {
