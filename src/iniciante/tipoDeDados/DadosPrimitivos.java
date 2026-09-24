@@ -11,6 +11,10 @@ public class DadosPrimitivos {
         boolean vivoOuMorto = true;
         Long saldoBancario = 8525588747845852L;
 
+        System.out.println("Sua inicial é: " + inicial);
         System.out.println("Sua idade é: " + idade);
+        System.out.println("Sua altura é: " + altura);
+        System.out.println("Seu saldo atual é: " + saldoBancario);
+        System.out.println("Você está vivo?: " + vivoOuMorto);
     }
 }
