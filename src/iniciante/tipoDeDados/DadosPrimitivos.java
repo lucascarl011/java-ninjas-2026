@@ -4,6 +4,7 @@ public class DadosPrimitivos {
     public static void main(String[] args) {
         /*
         Dados Primitivos: short, int, double, char, boolean
+        São tipos de dados que não conseguem receber métodos de maneira padrão
          */
         int idade = 16;
         double altura = 1.65;
